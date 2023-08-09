@@ -2,7 +2,7 @@
 ## Data Scientist 진명희 ⌨️
 ------------
 소개
-------------
+
 ### project
 
 Here are some ideas to get you started:

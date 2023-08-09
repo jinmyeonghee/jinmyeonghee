@@ -12,7 +12,7 @@
 *링크는 프로젝트에 대한 상세한 설명이 포함된 GitHub repository로 연결됩니다.
 
 ### Skill
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

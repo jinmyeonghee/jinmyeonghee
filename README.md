@@ -7,7 +7,7 @@
 - 얼굴인식모델 개선 [링크]
 - 과적차량 인식 및 단속 [[🔗프로젝트소개](https://github.com/jinmyeonghee/Overload-vehicle-detection)]
 - 재활용쓰레기 분류모델 [[🔗프로젝트소개](https://github.com/jinmyeonghee/Garbage-classification-model/tree/main)]
-- 카페 창업시 방문자수 예측 [링크]
+- 카페 창업시 방문자수 예측 [[🔗프로젝트소개](https://github.com/jinmyeonghee/Visitor_Prediction_ML)]
 - 고객만족도 예측 [링크]
   
 **링크는 프로젝트에 대한 상세한 설명이 포함된 GitHub repository로 연결됩니다.

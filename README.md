@@ -1,7 +1,7 @@
 
 ## Data Scientist 진명희 ⌨️
 
-메타인지의 힘을 아는 개발자
+메타인지의 힘을 아는 데이터 사이언티스트
 
 ### Project
 - 얼굴인식모델 개선 [[🔗프로젝트소개](https://github.com/jinmyeonghee/face-recognition)]
